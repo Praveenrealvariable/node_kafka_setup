@@ -10,3 +10,8 @@ cd /user/bin
 --> run below cmnd
 ./kafka-console-consumer --topic test-topic --boostrap-server localhost:9092 --from beginning
 
+
+## install docker desktop
+
+## install wsl_update_x64.msi  for windows
+
